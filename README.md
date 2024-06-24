@@ -47,5 +47,6 @@ I think this app falls into:
 # Instalation:
 - Create the Twilio functions
 - Add the Open AI Key
-- Add axios as dependency
+- Add axios, openai as dependency
 - Connect whatsapp through web hook
+- Send the first message to link your number to whatsapp sandbox
